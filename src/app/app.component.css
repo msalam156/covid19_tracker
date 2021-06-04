@@ -1,0 +1,17 @@
+.h{
+    background-color: rgb(14, 6, 61);
+    color: rgb(250, 242, 242);
+}
+.b{
+    background-color: rgb(177, 172, 245);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.bd{
+    border: 2px solid white;
+    border-radius: 13px;
+}
+.bb{
+    border: 2px solid rgb(14, 6, 61);
+    border-radius: 37px;
+}
